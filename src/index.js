@@ -4,7 +4,7 @@ import App from './App';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App text = "Worn off keys"/>
+    <App text = "My Name is Desire Amagwula"/>
   </React.StrictMode>,
   document.getElementById('root')
 );
